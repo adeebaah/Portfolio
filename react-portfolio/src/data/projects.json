@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Whip-Up",
+      "imageSrc": "projects/whipup.png",
+      "description": " WhipUp is a mobile app for  recipe sharing and discovery with a hands-free virtual assistant.",
+      "skills": ["Flutter", "FastAPI" ,"mongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ContainedChaos/whip_up"
+    },
+    {
+      "title": "Planify",
+      "imageSrc": "projects/planify.png",
+      "description": "Planify is a task management application allowing users to efficienty organize their task.",
+      "skills": [ "Express", "Node", "MongoDB", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/adeebaah/SWE_4538_PLANIFY"
+    },
+    {
+      "title": "Thirft Basket",
+      "imageSrc": "projects/thrift.png",
+      "description": "Thrift Basket is a web platform that enables the purchase and sale of secondhand clothing and footwear.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/ContainedChaos/thrift-basket"
+    }
+  ]
